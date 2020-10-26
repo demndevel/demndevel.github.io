@@ -1,0 +1,44 @@
+#mainarticle {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 40px;
+    color: dimgray;
+}
+#secondarticle {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 40px;
+    color: dimgray;
+}
+nav li{
+    display: inline-block;
+}
+nav a {
+    text-decoration: none;
+    font-family: 'Source Sans Pro';
+    color: black;
+    margin-right: 30px;
+}
+nav ul {
+    margin: 0 auto;
+    
+}
+nav a:hover{
+    border-bottom: 2px solid black;
+    
+}
+nav {
+      display: flex;
+  align-items: center;
+  justify-content: center;
+    
+}
+body {
+    margin: 0;
+}
+.foot {
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left: 40px;
+    color: dimgray;
+}
+#blogg {
+    border-top: 1px solid dimgrey;
+}
