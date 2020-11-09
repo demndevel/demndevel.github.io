@@ -1,0 +1,58 @@
+<head>
+   <title>Javascript game</title>
+ </head>
+ <body>
+   <h1>some game</h1>
+     <div id="stats">
+     <h3 id="playerName">Имя: приключенец</h3>
+     <h3 id="lvl">Уровень: </h3>
+     <h3 id="hp">ХП: </h3>
+     <h3 id="currentMoney">Бабло: </h3>
+     <h3 id="xp">Опыт: </h3>
+     <h3 id="damage">Урон: </h3>
+     <h3 id="def">Защита: </h3>
+     <h3 id="potions">Зелья: </h3>
+     <h3 id="turns">Ходы: </h3>
+         </div>
+     <div id="fighting">
+         
+         <h4 id="enemyName">Враг: андрей</h4>
+         <h4 id="enemyHp">Его хп: 1</h4>
+        <button onclick="attack();">Атаковать</button>
+        <button onclick="usePotion();">Глотнуть зелья</button>
+        <button onclick = "tryEscape();">Попытатся сбежать</button>
+     </div>
+     <div id="normalState">
+         <h4>Пара камешков и дерево... </h4>
+         <button onclick="next();">Идти дальше...</button>
+     </div>
+     <div id="shop">
+        <h4>Магаз</h4>
+         <button onclick="buyPotion();">Купить зелье регенерации   -   100$ </button>
+         
+         <button id="sword" onclick="buySword();">~Купить меч получше~</button>
+         <button id="shield" onclick="buyShield();">~Купить получше щит~</button>
+         <button onclick="next();">Погнать дальше</button>
+     </div>
+     <div id="log">
+        <h3>Все события:</h3>
+     </div>
+     <style type="text/css">
+         #log {
+             overflow-y: scroll;
+             height: 200px;
+             border: 3px solid black;
+         }
+         #stats h3 {
+             display: inline-block;
+             padding: 30px;
+         }
+         #stats {
+             border: 3px solid black;
+         }
+     </style>
+     
+     <script src="enemy.js"></script>
+   <script src="game.js"></script>
+   
+ </body>
