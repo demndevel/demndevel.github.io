@@ -1,17 +1,59 @@
-# The URL the site will be built for
-base_url = "https://demndevel.github.io"
-
-# Whether to automatically compile all Sass files in the sass directory
+base_url = "https://demndevel.github.io"      # Domain name of your website
+title = "demn"
+description = "demn's blog"
+default_language = "en"
+theme = "serene"
+output_dir = "public"
 compile_sass = true
-
-# Whether to build a search index to be used later on by a JavaScript library
-build_search_index = true
+minify_html = true
+build_search_index = false            # Keep this false, search is temporarily unsupported
+generate_feed = true                 # Whether to generate a feed file in root, read docs for more info about rss feed
+feed_filename = "feed.xml"            # The file name of feed, "feed.xml" / "atom.xml" / "rss.xml", read docs for more info
+taxonomies = [{ name = "tags" }, { name = "categories" }]
 
 [markdown]
-# Whether to do syntax highlighting
-# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
 highlight_code = true
+extra_syntaxes = []
+highlight_theme = "one-dark"          # Code highlight theme, choose one at https://www.getzola.org/documentation/getting-started/configuration/#syntax-highlighting
+render_emoji = true
+external_links_target_blank = false
+external_links_no_follow = true
+external_links_no_referrer = true
+smart_punctuation = true
+
+[slugify]
+paths = "on"
+taxonomies = "on"
+anchors = "on"
+
+#=========================================================================================
 
 [extra]
-# Put all your custom variables here
-theme = "serene"
+
+name = "demn"                         # Your name
+id = "demndevel"                           # Your id / username / handle
+bio = "demn is a sussy girl"                          # Your bio
+avatar = "img/avatar.webp"            # Your avatar
+links = [                             # Your links
+    { name = "GitHub", icon = "github", url = "https://github.com/demndevel" },
+    { name = "Telegram", icon = "telegram", url = "https://t.me/demndevel/" },
+    { name = "Email", icon = "email", url = "mailto:demndevel@gmail.com" },
+]
+
+nav_separator = "::"
+
+display_id = true                     # Display your id on homepage
+projects_page = true                  # Display projects page
+blog_categorized = true               # Whether to categorize blog posts
+blur_effect = true                    # Whether to turn on blur effect on navigation bar
+
+toc = false                            # Whether to show Table-Of-Contents by default
+comment = true                       # Whether to show giscus comment section by default, see https://giscus.app for more info
+
+outdate_alert = true                 # Whether to show outdate alert by default
+outdate_alert_days = 500              # How many days will a post be outdated by default
+outdate_alert_text_before = "This article was last updated "
+outdate_alert_text_after = " days ago and may be out of date."
+
+footer_copyright = "© 202* demn krutoy"
+footer_credits = true    
