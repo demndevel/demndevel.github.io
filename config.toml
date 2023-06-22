@@ -33,7 +33,7 @@ anchors = "on"
 name = "demn"                         # Your name
 id = "demndevel"                           # Your id / username / handle
 bio = "demn is a sussy girl"                          # Your bio
-avatar = "img/avatar.png"            # Your avatar
+avatar = "img/69032700.png"            # Your avatar
 links = [                             # Your links
     { name = "GitHub", icon = "github", url = "https://github.com/demndevel" },
     { name = "Telegram", icon = "telegram", url = "https://t.me/demndevel/" },
