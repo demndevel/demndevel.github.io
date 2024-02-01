@@ -11,7 +11,7 @@ lang = 'en'
 printfn "i am cat btw"
 ```
 
-I’m a very cute chicken leg. I’m `0x10` y.o. I do some projects in C#/ASP.NET Core stack.
+I’m a very cute chicken leg. I’m `0x11` y.o. I do some projects in C#/ASP.NET Core stack.
 
 I’m also interested in things like F#, SwiftUI, etc.
 
