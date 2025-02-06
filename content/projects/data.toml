@@ -1,8 +1,8 @@
 [[project]]
-name = ""
-desc = ""
+name = "Gester"
+desc = "smart search bar with plugins"
 links = [
-  { name = "", url = "" },
+  { name = "Gester", url = "https://github.com/demndevel/gester" },
   { name = "", url = "" },
 ]
 
