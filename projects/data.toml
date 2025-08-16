@@ -1,0 +1,24 @@
+[[project]]
+name = "Gester"
+desc = "Search bar with additional features such as calculator, unit converter, currency converter, internet search and so on. With support for AIDL bound-services based plugins and dynamic sorting of output results."
+links = [
+  { name = "gester", url = "https://github.com/demndevel/gester" },
+  { name = "core library", url = "https://github.com/demndevel/gester/gester-core" },
+  { name = "telegram", url = "https://t.me/ggester" },
+]
+
+[[project]]
+name = "Seed Messaging Platform (mobile app)"
+desc = "A secure messaging platform with no user identification, based on the locality of everything, including message decryption. With encryption based on AES-256"
+links = [
+  { name = "seed-mobile", url = "https://github.com/seed-ecosystem/seed-mobile" },
+  { name = "whitepaper", url = "https://github.com/seed-ecosystem/seed-whitepaper/" },
+]
+
+[[project]]
+name = "Flow!"
+desc = "A social network based on the tinder-like swipe feed."
+links = [
+  { name = "mobile app repo", url = "https://github.com/Flow-Social/mobile/" },
+  { name = "telegram", url = "https://t.me/flowswipe" },
+]
