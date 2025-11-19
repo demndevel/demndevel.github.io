@@ -1,4 +1,4 @@
-# no style, please!
+# no style, please! (demn's edition)
 
 [![Gem Version](https://badge.fury.io/rb/no-style-please.svg)](https://badge.fury.io/rb/no-style-please)
 

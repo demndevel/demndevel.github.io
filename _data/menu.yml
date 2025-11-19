@@ -2,37 +2,18 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: <b>summary</b>
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
-  - title: all posts
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
-  
-  - title: another list
+      - title: "real name without any jokes: <tt>Emil Gazizov</tt>"
+      - title: "0x12 y.o."
+      - title: github
+        url: https://github.com/demndevel
+      - title: telegram
+        url: https://t.me/demndevel
+  - title: <b>languages</b>
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: "<b>🇩🇪 german</b>: ≈a2"
+      - title: "<b>🍯 bashkort</b>: ≈b1"
+      - title: "<b>🇺🇸 english</b>: pre-pre-fluent"
+      - title: "<b>🇷🇺 russian</b>: native"
+
