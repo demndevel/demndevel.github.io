@@ -1,3 +1,75 @@
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 100;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-100-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-100-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-100-normal.ttf) format('truetype');
+}
+/* iosevka-latin-200-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 200;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-200-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-200-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-200-normal.ttf) format('truetype');
+}
+/* iosevka-latin-300-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 300;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-300-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-300-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-300-normal.ttf) format('truetype');
+}
+/* iosevka-latin-400-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-400-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-400-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-400-normal.ttf) format('truetype');
+}
+/* iosevka-latin-500-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 500;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-500-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-500-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-500-normal.ttf) format('truetype');
+}
+/* iosevka-latin-600-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 600;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-600-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-600-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-600-normal.ttf) format('truetype');
+}
+/* iosevka-latin-700-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-700-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-700-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-700-normal.ttf) format('truetype');
+}
+/* iosevka-latin-800-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 800;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-800-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-800-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-800-normal.ttf) format('truetype');
+}
+/* iosevka-latin-900-normal */
+@font-face {
+  font-family: 'Iosevka';
+  font-style: normal;
+  font-display: auto;
+  font-weight: 900;
+  src: url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-900-normal.woff2) format('woff2'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-900-normal.woff) format('woff'), url(https://cdn.jsdelivr.net/fontsource/fonts/iosevka@latest/latin-900-normal.ttf) format('truetype');
+}
+
 @import 'colors';
 
 // -------------- THEME SWITCHER -------------- //
@@ -31,7 +103,8 @@ html { height: 100%; scroll-behavior: smooth; }
 
 body {
   color: $fg-color;
-  font-family: monospace;
+  /* font-family: monospace; */
+  font-family: 'Iosevka', monospace;
   font-size: 16px;
   line-height: 1.4;
   margin: 0;
