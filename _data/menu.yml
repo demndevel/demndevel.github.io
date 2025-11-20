@@ -5,7 +5,8 @@ entries:
   - title: <b>summary</b>
     entries:
       - title: "real name without any jokes: <tt>Emil Gazizov</tt>"
-      - title: "0x12 y.o."
+      - title: 'age: <tt><a href="/bd" id="ageDisplay" class="age-display"></a></tt>'
+      # "0x12 y.o."
       - title: github
         url: https://github.com/demndevel
       - title: telegram
@@ -16,4 +17,3 @@ entries:
       - title: "<b>🍯 bashkort</b>: ≈b1"
       - title: "<b>🇺🇸 english</b>: pre-pre-fluent"
       - title: "<b>🇷🇺 russian</b>: native"
-
