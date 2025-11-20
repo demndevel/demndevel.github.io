@@ -1,14 +1,12 @@
-# For documentation on this file, see:
-# https://github.com/riggraz/no-style-please#customize-the-menu
-
 entries:
   - title: <b>summary</b>
     entries:
       - title: "real name without any jokes: <tt>Emil Gazizov</tt>"
-      - title: 'age: <tt><a href="/bd" id="ageDisplay" class="age-display"></a></tt>'
-      # "0x12 y.o."
+      - title: 'age: <tt><a href="/bd" id="ageDisplay" class="age-display">18+</a> y.o.'
       - title: github
         url: https://github.com/demndevel
+      - title: mail
+        url: mailto:demndevel@gmail.com
       - title: telegram
         url: https://t.me/demndevel
   - title: <b>languages</b>
@@ -17,3 +15,6 @@ entries:
       - title: "<b>🍯 bashkort</b>: ≈b1"
       - title: "<b>🇺🇸 english</b>: pre-pre-fluent"
       - title: "<b>🏳️ russian</b>: native"
+  - title: my silly notes
+    url: /archive
+  - title: '<a href="https://otomir23.me/webring">webring</a>: <a href="https://webring.otomir23.me/25/prev">prev</a> <a href="https://webring.otomir23.me/25/next">next</a>'
