@@ -20,6 +20,4 @@ SOL:
 DR8dPifM8Qzh6spqW4CZrpbrJcUPSFniLACRDZA5JtMS
 ```
 
-People who agree: 
-
-- [birthdays @ y9san9](https://y9san9.me/content/birthdays)
+Also here's a good note on this: [birthdays @ y9san9](https://y9san9.me/content/birthdays).
