@@ -3,12 +3,11 @@ entries:
     entries:
       - title: "real name without any jokes: <tt>Emil Gazizov</tt>"
       - title: 'age: <tt><a href="/bd" id="ageDisplay" class="age-display">18+</a> y.o.'
-      - title: github
-        url: https://github.com/demndevel
-      - title: mail
-        url: mailto:demndevel@gmail.com
-      - title: telegram
-        url: https://t.me/demndevel
+      - title: 'mail: <a href="mailto:demndevel@gmail.com">demndevel@gmail.com</a>'
+      - title: 'github: <a href="https://github.com/demndevel">demndevel</a>'
+      - title: 'telegram: <a href="https://t.me/demndevel">demndevel</a>'
+      - title: 'ex: <a href="https://x.com/demndevel">demndevel</a>'
+      - title: 'pds.stupid.fish: <a href="https://bsky.app/profile/demn.shy.cat">demn.shy.cat</a>'
   - title: <b>languages</b>
     entries:
       - title: "<b>🇩🇪 german</b>: ≈a2"
