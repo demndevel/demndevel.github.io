@@ -2,9 +2,10 @@
 layout: home
 ---
 
-My primary occupation is kotlin programming, you can find more info about my experience [here](/projects).
-However, I am also interested in many other things, such as travelling, chinese tea, meeting new people, and taking notes to my markdown vault (yes, very dull).
+trying to do kotlin coding with participating in some cool projects; you can find more info about my experience [here](/projects).
 
-Also here would be some of my talks/articles I will probably make in the future.
+i'm also interested in things other than coding, such as trying to research how i can protect my attention from bigtech and governments, chinese tea, meeting new people, taking notes to my markdown vault and a bit of making strange sped up remixes for popular songs.
+
+also here would be some of my talks/articles i will probably make in the future.
 
 <script src="age.js"/>

@@ -1,19 +1,27 @@
 ---
 layout: page
-title: Experience
+title: experience
 ---
 
-My primary area is kotlin development. I mostly do android projects, but I'm open for other project suggestions.
+[![wakatime](https://wakatime.com/badge/user/f187bdc7-a6a4-4d92-b6ed-9e46103d5c79.svg)](https://wakatime.com/@f187bdc7-a6a4-4d92-b6ed-9e46103d5c79)
 
-There are much projects I've been participating on, but I'll add most of them later. If you want my CV, you can [contact](/) me.
+My primary coding area is kotlin development, mostly android, but I work on all kinds of things.
 
-# Commercial
+Most of stuff I will add here later
 
-I'm currently working on a commercial R&D project in **kotlin** for a quantitative finance project. 
+For a CV you can [contact](/) me
 
-# Side- / Pet-
+# commercial
+
+My current work is a R&D project in **kotlin** for a quantitative finance project. 
+
+==WIP==
+
+# pet
 
 I also do some side projects, e.g. [Kotlin Meta](https://www.youtube.com/@KotlinMeta) and [Friendly](https://github.com/friendly-social/) project with my friends. 
-Many projects have since been abandoned for various reasons.
+
+Many projects have since been abandoned for various reasons :c
 
 Most of them I'll add later, but you can see some of them at my [github/demndevel](https://github.com/demndevel).
+
