@@ -8,3 +8,4 @@ _site
 vendor
 Gemfile.lock
 .jektex-cache
+.DS_Store
