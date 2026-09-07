@@ -3,7 +3,7 @@ entries:
     entries:
       - title: "real name without any jokes: <tt>Emil Gazizov</tt>"
       - title: 'age: <tt><a href="/bd" id="ageDisplay" class="age-display">18..25</a> y.o.'
-      - title: 'mail: <a href="mailto:me@demn.dev">me@demn.dev</a>'
+      - title: 'mail: me |at| demn |dot| dev'
       - title: 'github: <a href="https://github.com/demndevel">demndevel</a>'
       - title: 'telegram: <a href="https://t.me/demndevel">demndevel</a>'
       - title: 'x: <a href="https://x.com/demndevel">demndevel</a>'

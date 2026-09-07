@@ -8,4 +8,8 @@ i'm also interested in things other than coding, such as trying to research how 
 
 also here would be some of my talks/articles i will probably make in the future.
 
+<a href="https://getfriend.ly" target="_blank" rel="noopener noreferrer" style="image-rendering: pixelated;">
+<img src="https://zhn.su/badges/friendly.png" alt="Friendly 88x31 badge">
+</a>
+
 <script src="age.js"/>
