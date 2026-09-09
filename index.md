@@ -12,4 +12,8 @@ also here would be some of my talks/articles i will probably make in the future.
 <img src="https://zhn.su/badges/friendly.png" alt="Friendly 88x31 badge">
 </a>
 
+<a href="https://boylifein.eu/" target="_blank" rel="noopener noreferrer" style="image-rendering: pixelated;">
+<img src="https://boylifein.eu/alisher.gif" alt="Friendly 88x31 badge">
+</a>
+
 <script src="age.js"/>
